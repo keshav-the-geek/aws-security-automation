@@ -1,3 +1,7 @@
+# aws cloud9 installer
+curl -L https://raw.githubusercontent.com/c9/install/master/install.sh | bash
+wget -O - https://raw.githubusercontent.com/c9/install/master/install.sh | bash
+
 # aws-security-automation
 Collection of scripts and resources for DevSecOps, Security Automation and Automated Incident Response Remediation
 
